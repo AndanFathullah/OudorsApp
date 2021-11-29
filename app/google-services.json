@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737080949974",
+    "firebase_url": "https://oudorsapp-default-rtdb.firebaseio.com",
+    "project_id": "oudorsapp",
+    "storage_bucket": "oudorsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737080949974:android:9665715b16886a7dd4dd77",
+        "android_client_info": {
+          "package_name": "com.dicoding.oudorsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737080949974-lc2r95nu3chstjec9o3ijgn2n1hkq2jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGrY9EsmlOKroO1ZSCPqxsvlR3ke19qPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737080949974-lc2r95nu3chstjec9o3ijgn2n1hkq2jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
